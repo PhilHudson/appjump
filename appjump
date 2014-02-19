@@ -15,6 +15,12 @@
 # commands to switch to the last used instance of a given program. If there are
 # no instances of the particular program running, it starts one.
 #
+# Laest version:
+#
+# The version of this script on the Ratpoison wiki is *not* guaranteed to be
+# up-to-date. For the latest version, go to:
+# https://github.com/PhilHudson/appjump
+#
 # Adapted from:
 #
 # RatpoisonWiki: Extended Frame Jumping
